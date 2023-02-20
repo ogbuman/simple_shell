@@ -4,7 +4,8 @@
 - Simple shell create in C to interact with a linux operating system.
 .SH SYNOPSIS
 hsh [options] [file]
-.SH DESCRIPTION:Shell is a UNIX term for the interactive user interface with an operating system.The shell is the layer of programming that understands and executes the commands a user enters. In some systems, the shell is called a command interpreter. A shell usually implies an interface with a command syntax 
+.SH DESCRIPTION:
+Shell is a UNIX term for the interactive user interface with an operating system. The shell is the layer of programming that understands and executes the commands of a user entered. in some systems, the shell is called a command interpreter. A shell usually implies an interface with a command syntex.
 .B Overview
 The simple shell is a command that reads lines from either a file or the terminal, interprets them, and generally executes other commands. It is the program that is started when a user logs into the system. It incorporates many features to aid interactive use and has the advantage that the interpretative language is common to both interactive and non-interactive use (shell
 .SH Return Value
